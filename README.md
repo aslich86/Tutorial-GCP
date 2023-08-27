@@ -1,4 +1,3 @@
-**Part 1: Pengenalan ke Google Cloud Platform (GCP)**
 
 ![image](https://github.com/aslich86/Tutorial-GCP/assets/74340158/07dabd27-eff8-4c32-b8a5-f398669063d9)
 
